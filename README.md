@@ -1,4 +1,4 @@
-# Week_12_third_task
+# Homework_week12_third_task
 
 Создадим сервис комментариев. В нём будет три поля ввода:
 
@@ -10,8 +10,6 @@
                     const comment1 = checkSpam('buy ViAgRA now'); //результат buy *** now
                     const comment2 = checkSpam('free xxx'); //результат free ***
                     const comment3 = checkSpam("innocent rabbit") ; //результат innocent rabbit
-Пример реализации:
-![image](https://github.com/user-attachments/assets/0e953434-d27b-4b5a-816f-fcc84179e0f8)
 
 Реализация:
 
